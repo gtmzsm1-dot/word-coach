@@ -1,0 +1,1 @@
+{"name":"单词带读","short_name":"单词带读","description":"英语单词带读（PWA 网页应用，无服务器）","start_url":"./","display":"standalone","background_color":"#f5f7fb","theme_color":"#3b82f6","lang":"zh-CN","scope":"./","icons":[{"src":"icons/icon-192.png","sizes":"192x192","type":"image/png"},{"src":"icons/icon-512.png","sizes":"512x512","type":"image/png"}]}
